@@ -58,7 +58,7 @@
       <v-layout v-if="showSuccessScreen">
         <v-flex class="text-xs-center" xs12 md8 offset-md2>
           <v-icon color="green" class="mb-4 mt-3" x-large>check_circle</v-icon>
-          <p class="title">Thanks for taking time to help us understand you better!</p>
+          <h3>Thanks for taking time to help us understand you better!</h3>
         </v-flex>
       </v-layout>
     </v-container>
